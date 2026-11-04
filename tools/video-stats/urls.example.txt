@@ -1,5 +1,0 @@
-# 每行一个视频链接，# 开头是注释
-https://www.bilibili.com/video/BV1xx411c7mD
-https://b23.tv/xxxxxxx
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
-https://youtube.com/shorts/xxxxxxxxxxx
